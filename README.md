@@ -1,4 +1,4 @@
-# SeaChatGPT
+# SeeChatGPT
 
 [Explainer Video to be released here](http://youtube.com/c/ChaiTimeDataScience/)
 
